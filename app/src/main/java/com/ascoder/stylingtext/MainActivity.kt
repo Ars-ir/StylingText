@@ -49,6 +49,8 @@ fun ComponentContainer() {
             color = Color.White,
             fontSize = 30.sp,
             fontFamily = fontFamily,
+            fontWeight = FontWeight.Bold,
+            fontStyle = FontStyle.Italic
         )
     }
 }
